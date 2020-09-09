@@ -1,3 +1,3 @@
 collections:
-  # zedr/ansible_blog_examples
-  - name: https://github.com/zedr/ansible_blog_examples/releases/download/1.0.0/zedr-blog_examples-1.0.0.tar.gz
+  # zedr/blog_examples
+  - name: https://github.com/zedr/blog_examples/releases/download/1.0.0/zedr-blog_examples-1.0.0.tar.gz
